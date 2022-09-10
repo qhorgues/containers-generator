@@ -1,2 +1,2 @@
 # containers-generator
-Une générateur de structure de données en C
+Un générateur de structure de données en C
